@@ -9,22 +9,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I'm currently studying Analyst and University Programmer at the National University of Jujuy.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+- 📫 You can shoot me an email at agustincastellon06@gmail.com! I'll try to respond as soon as I can.
 
 <div id="user-content-toc">
   <ul align="center">
