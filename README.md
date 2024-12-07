@@ -13,7 +13,7 @@
 
 - 🌱 I'm currently studying Analyst and University Programmer at the National University of Jujuy.
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing and looking forward to working with innovative companies where I can contribute and grow as a programmer.
 
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
